@@ -306,7 +306,7 @@ fetch("./data/lista_presbiterios.json")
 
         const igrejasHeader = document.createElement("h3");
         igrejasHeader.classList.add("card-title", "text-center", "mt-4");
-        igrejasHeader.textContent = `Lista de Igrejas do ${item.nome_presbiterio}`;
+        igrejasHeader.textContent = `Igrejas do ${item.nome_presbiterio}`;
 
         igrejasCard.appendChild(igrejasHeader);
         igrejasCard.appendChild(igrejasCardBody);
