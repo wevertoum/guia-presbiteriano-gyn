@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.search-div {
+  width: 30%;
+}
+
+@media (max-width: 767px) {
+  .search-div {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+
+.accordion-div {
+  width: 70%;
+}
+
+@media (max-width: 767px) {
+  .accordion-div {
+    width: 100%;
+  }
+}
+
+.igreja-item {
+  margin: 4px 0;
+  cursor: pointer;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

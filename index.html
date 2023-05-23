@@ -2,12 +2,48 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Lista de presbitério do SBC</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
   </head>
+
   <body>
-    <ul id="lista-presbiterios"></ul>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <h1 class="navbar-brand">
+        Lista de presbitério do SBC (Sínodo Brasil Central)
+      </h1>
+    </nav>
+
+    <div class="container mt-4">
+      <div class="row">
+        <div class="col-md-4 search-div">
+          <label for="searchInput"
+            >Listar igrejas por presbitério, nome ou endereço</label
+          >
+          <div class="form-group">
+            <input
+              type="text"
+              class="form-control"
+              id="searchInput"
+              placeholder="Buscar"
+            />
+          </div>
+        </div>
+        <div class="col-md-8 accordion-div">
+          <div class="mb-4" id="accordion">
+            <!-- Accordions serão adicionados dinamicamente aqui -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="scripts.js"></script>
   </body>
-  <script src="./scripts.js"></script>
 </html>

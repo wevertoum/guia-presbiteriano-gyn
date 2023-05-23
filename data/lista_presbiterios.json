@@ -2,6 +2,105 @@
   {
     "nome_presbiterio": "Presbitério Goiânia - PGNA",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "lista_de_igrejas": [
+      {
+        "nome": "1ª Igreja Presbiteriana de Goiânia (primeira)",
+        "endereco": "R.68 (Esquina com R. 71) - Centro - Goiânia/GO",
+        "cep": "74055-200",
+        "contato": {
+          "telefone": "(62) 3213-3320",
+          "email": "secretaria@pipg.org",
+          "website": "www.pipg.org"
+        },
+        "pastor": {
+          "nome": "Rev. Ericson Liberato Martins",
+          "telefone": "(62) 3213-3320",
+          "celular": "(62) 9.8115-8771",
+          "email": "ericsonmartins@me.com"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      },
+      {
+        "nome": "Capela Presbiteriana de Goiânia",
+        "endereco": "Av. Goiás, N° 4.484, Qd. 43, Lt. 13/16 - Criméia Oeste - Goiânia/GO",
+        "cep": "74563-220",
+        "contato": {
+          "telefone": "(62) 3210-2839",
+          "website": "capela.ipb@gmail.com"
+        },
+        "pastor": {
+          "nome": "Rev. Helber Carlos Goulart",
+          "telefone": "(62) 3941-6211",
+          "celular": "(62) 98237-0926",
+          "email": "phcgoulart@gmail.com"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      },
+      {
+        "nome": "Igreja Presbiteriana Balneário Meia Ponte",
+        "endereco": "Avenida Nerópolis 5621 quadra 6 lotes 3 e 4 - Parque das Flores - Goiânia/GO",
+        "cep": "74000-000",
+        "contato": { "telefone": "(62) 3210-8400" },
+        "pastor": {
+          "nome": "Rev. Marcelo Augusto Pereira",
+          "telefone": "(62) 3210-8400",
+          "celular": "(62) 9.9367-0599",
+          "email": "marceloaugusto841@yahoo.com.br"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Cidade Livre",
+        "endereco": "Rua R-2, Qd. 7, Lt. 7 - Cidade Livre - Aparecida De Goiânia/GO",
+        "cep": "74970-110",
+        "contato": { "telefone": "(62) 3248-8076" },
+        "pastor": {
+          "nome": "Rev. Eliel de Castro",
+          "telefone": "(62) 3248-6761",
+          "celular": "(62) 9266-5278",
+          "email": "elielcastro@gmail.com"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Cromínia",
+        "endereco": "Av. Osvaldo Cruz, 268 - Centro - Cromínia/GO",
+        "cep": "75635-000",
+        "contato": { "telefone": "(64) 3419-1252" },
+        "pastor": {
+          "nome": "Rev. Sérgio Aparecido Félix Alves",
+          "telefone": "(62) 3419-1252"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Pontalina",
+        "endereco": "Av. Rui Barbosa, 1363 - Centro - Pontalina/GO",
+        "cep": "75620-000",
+        "contato": { "telefone": "(64) 3471-2105" },
+        "pastor": {
+          "nome": "Rev. Davi Francisco de Oliveira",
+          "celular": "(17) 9.9782-5038",
+          "email": "davijanda123@gmail.com"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Parque Real",
+        "endereco": "Av. Luiz XV com Conde Déo, Qd 17, Lts 3,4 e 8 - Parque Real - Aparecida De Goiânia/GO",
+        "cep": "74910-180",
+        "contato": {
+          "telefone": "(62) 3249-3330",
+          "email": "izaqueualves@uol.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Roosevelt Guerra Júnior",
+          "celular": "(62) 9 8187-3503",
+          "email": "rguerra007@gmail.com"
+        },
+        "presbiterio": "Presbitério Goiânia - PGNA"
+      }
+    ],
     "presidente": {
       "nome": "Rev. Helber Carlos Goulart",
       "cel": "(62) 98237-0926",
@@ -17,6 +116,158 @@
   {
     "nome_presbiterio": "Presbitério Leste de Goiânia - PLGN",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "lista_de_igrejas": [
+      {
+        "nome": "Igreja Presbiteriana Criméia Leste",
+        "endereco": "Av. Senador Pedro Ludovico Teixeira, Quadra 4 - Lote 7 - Setor Criméia Leste - Goiânia/GO",
+        "cep": "74660-300",
+        "contato": {
+          "telefone": "(62) 3942-2960",
+          "email": "ipcleste@gmail.com"
+        },
+        "pastor": {
+          "nome": "Rev. Roberto Carlos Dos Santos",
+          "celular": "(62) 99250-1230",
+          "email": "prrobertocarlos38@gmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Caldas Novas",
+        "endereco": "Av. Brasilia, 54 - Qd. 50, Lt. 21 - Setor São José - Caldas Novas/GO",
+        "cep": "75690-000",
+        "contato": {
+          "telefone": "(64) 3455-5335",
+          "email": "ipcaldasnovas@bol.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Alex Paiva",
+          "telefone": "(64) 3453-3553",
+          "celular": "(64) 9.9215-3027",
+          "email": "alexhalieus2005@gmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Morrinhos",
+        "endereco": "R. Major Evaristo Frausino, 1.197 - Centro - Morrinhos/GO",
+        "cep": "75650-000",
+        "contato": {
+          "telefone": "(64) 3413-2508",
+          "website": "www.ipbmorrinhos.blogspot.com"
+        },
+        "pastor": {
+          "nome": "Rev. Alexandre Santos Mannarino",
+          "telefone": "(62) 9495-1808",
+          "celular": "(62) 8257-4584",
+          "email": "mannarinoalex@hotmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Vila Nova",
+        "endereco": "Pça. Boaventura nº 108 - Setor Leste Vila Nova - Goiânia/GO",
+        "cep": "74640-010",
+        "contato": {
+          "telefone": "(62) 3261-1017",
+          "email": "ipdevilanova@yahoo.com.br",
+          "website": "www.ipvn.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Helio De Oliveira Silva",
+          "telefone": "(55) 6298-1205",
+          "celular": "(62) 98120-5111",
+          "email": "revhelio@gmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Jardim Guanabara",
+        "endereco": "R. GB-19 com R. GB 18, Qd. 37, Lt. 02 - Jardim Guanabara II - Goiânia/GO",
+        "cep": "74680-820",
+        "contato": {
+          "telefone": "(62) 3434-4338",
+          "email": "otavianosd@hotmail.com"
+        },
+        "pastor": {
+          "nome": "Rev. Otaviano Seixas Dourado",
+          "telefone": "(62) 3434-4338",
+          "celular": "(62) 9 8156-1074",
+          "email": "otavianosd@hotmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Jardim Novo Mundo",
+        "endereco": "Av. Cristóvão Colomquadra, 165 - Lote 9 - Jardim Novo Mundo - Goiânia/GO",
+        "cep": "74705-130",
+        "contato": { "telefone": "(62) 3091-7975" },
+        "pastor": {
+          "nome": "Rev. Jenner Pimentel Gomes",
+          "celular": "(11) 97179-8999",
+          "email": "jenner-silvana@hotmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Parque Das Laranjeiras",
+        "endereco": "R. Cardeal, Quadra A, Lote 2 - Parque Das Laranjeiras - Goiânia/GO",
+        "cep": "74855-220",
+        "contato": { "telefone": "(62) 3282-2463", "email": "ippl@ig.com.br" },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Nova Aliança",
+        "endereco": "R. Roberto Valadares, 230 - Negrão de Lima - Goiânia/GO",
+        "cep": "74650-250",
+        "contato": { "telefone": "" },
+        "pastor": {
+          "nome": "Rev. Jhones Fernando Augusto da Silva",
+          "celular": "(62) 9.8126-2128",
+          "email": "jhonesfernando@hotmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Redenção",
+        "endereco": "R. 1.083, Quadra 84 - Lote 33 - Vila Redenção - Goiânia/GO",
+        "cep": "74850-300",
+        "contato": {
+          "telefone": "(62) 3259-1745",
+          "email": "tercior@terra.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Tércio Rocha",
+          "telefone": "(62) 3259-1745",
+          "celular": "(62) 9.9976-6530",
+          "email": "tercior@terra.com.br"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Vida",
+        "endereco": "Av. Alphaville Flamboyant, 200 - Res. Alphaville Flamboyant - Goiânia/GO",
+        "cep": "74884-527",
+        "contato": { "telefone": "", "website": "ipbvida.com.br" },
+        "pastor": {
+          "nome": "Rev. Milton Rodrigues Junior",
+          "telefone": "(62) 3877-8545",
+          "celular": "(62) 8159-3775",
+          "email": "rodriguesmiltonjunior@gmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      },
+      {
+        "nome": "Primeira Igreja Presbiteriana em Bela Vista de Goiás",
+        "endereco": "Alameda Altino Dutra, Qd. 17 ,Lt. 02 - Setor Lúcia Alice - Bela Vista De Goiás/GO",
+        "cep": "75240-000",
+        "contato": {
+          "telefone": "(62) 3551-3977",
+          "email": "ada_mach@hotmail.com"
+        },
+        "presbiterio": "Presbitério Leste de Goiânia - PLGN"
+      }
+    ],
     "presidente": {
       "nome": "Rev. Otaviano Seixas Dourado",
       "cel": "(62) 9 8156-1074",
@@ -26,6 +277,117 @@
   {
     "nome_presbiterio": "Presbitério Metropolitano de Goiânia - PMGN",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "lista_de_igrejas": [
+      {
+        "nome": "Igreja Presbiteriana Água Viva",
+        "endereco": "R. 217, Qd. 32, Lt. 48 - Jardim D. Fernando II - Goiânia/GO",
+        "cep": "74943-195",
+        "contato": { "telefone": "(62) 3208-3800" },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana da Vila Morais",
+        "endereco": "R. Dois, 424, lt 5 , qd 3 - Vila Morais - Goiânia/GO",
+        "cep": "74620-320",
+        "contato": { "telefone": "" },
+        "pastor": {
+          "nome": "Rev. Abnaildo Durães Silva",
+          "telefone": "(62) 3202-5583",
+          "celular": "(62) 8454-8052"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Piracanjuba",
+        "endereco": "R. José Alves Ferreira, 354 - Centro - Piracanjuba/GO",
+        "cep": "75640-000",
+        "contato": {
+          "telefone": "(64) 3405-2309",
+          "email": "ippba@bol.com.br"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Recanto das Minas Gerais",
+        "endereco": "SR 33 Qd. 46 Lt. 6 - Recanto das Minas Gerais - Goiânia/GO",
+        "cep": "74785-460",
+        "contato": { "email": "iprmg@bol.com.br" },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Esperança",
+        "endereco": "Av. Transbrasiliana, 278, Qd 244, Lt 20 - Parque Amazônia - Goiânia/GO",
+        "cep": "74835-300",
+        "contato": {
+          "email": "esperancagyn@gmail.com",
+          "website": "esperancagyn.wordpress.com"
+        },
+        "pastor": {
+          "nome": "Rev. Eurípedes Pereira de Brito",
+          "telefone": "(62) 3204-8886",
+          "celular": "(62) 9112-5674",
+          "email": "euripedesbrito@hotmail.com"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Graça e Vida",
+        "endereco": "Av. Afonso Pena esq. c/ Rua Rondônia, Qd 25A, Lt 01 - Goiânia II - Goiânia/GO",
+        "cep": "74665-555",
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Luz",
+        "endereco": "Av. República do Líbano, nº 125 - Setor Aeroporto - Goiânia/GO",
+        "cep": "74070-045",
+        "contato": {
+          "telefone": "(62) 3223-4499",
+          "website": "www.comunidadeluz.com"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Maranatha",
+        "endereco": "Av. D, Qd 12, Lote 3/4, Nº 151 - Setor Marista - Goiânia/GO",
+        "cep": "74150-040",
+        "contato": {
+          "telefone": "(62) 3941-6020",
+          "email": "secretariaipm@ipbmaranatha.com.br",
+          "website": "www.ipbmaranatha.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Eurípedes Pereira de Brito",
+          "telefone": "(62) 3204-8886",
+          "celular": "(62) 9112-5674",
+          "email": "euripedesbrito@hotmail.com"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Pedra Viva",
+        "endereco": "R. CP 18, Q CP 18, Lt 21 - Setor Celina Park - Goiânia/GO",
+        "cep": "74373-270",
+        "contato": {
+          "telefone": "(62) 8132-9009",
+          "email": "pastorjair@comunidadepedraviva.com.br",
+          "website": "www.comnidadepedraviva.com.br"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Vila Concórdia",
+        "endereco": "R. Quintino Vargas, esq. c/ R. Oswaldo Cruz - Qd. X2 Lotes 10/11 - Vila Concórdia - Goiânia/GO",
+        "cep": "74770-390",
+        "contato": { "email": "ipvconcordia@yahoo.com" },
+        "pastor": {
+          "nome": "Rev. André Luis Matos Haussmann",
+          "telefone": "(62) 3208-7964",
+          "celular": "(62) 9.8274-2169",
+          "email": "andrehaussmann@yahoo.com.br"
+        },
+        "presbiterio": "Presbitério Metropolitano de Goiânia - PMGN"
+      }
+    ],
     "secretario_executivo": {
       "nome": "Rev. André Luis Matos Haussmann",
       "tel": "(62) 3208-7964",
@@ -36,6 +398,262 @@
   {
     "nome_presbiterio": "Presbitério Oeste de Goiânia - POSG",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "lista_de_igrejas": [
+      {
+        "nome": "Igreja Presbiteriana Betânia",
+        "endereco": "Rua 15, 276 Qd. 42 LT. 2/4 - Vila Santa Helena - Goiânia/GO",
+        "cep": "74555-270",
+        "contato": {
+          "telefone": "",
+          "email": "prjbgc@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. João Batista Gomes Coelho",
+          "telefone": "(62) 3942-0114",
+          "celular": "(62) 9 8561-4488",
+          "email": "prjbgc@gmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Buriti",
+        "endereco": "R. das Graças, Quadra 128, Lote 17 - Jardim Buriti Sereno - Aparecida De Goiânia/GO",
+        "cep": "74943-120",
+        "contato": {
+          "telefone": "(62) 9.9247-4247",
+          "email": "ipburiti@gmail.com",
+          "website": ""
+        },
+        "pastor": { "nome": "", "telefone": "", "celular": "", "email": "" },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Bom Jardim",
+        "endereco": "Av. Simirami de Castro, 160 - Centro - Bom Jardim De Goiás/GO",
+        "cep": "76245-000",
+        "contato": {
+          "telefone": "(64) 9.9615-2212",
+          "email": "ipbomjardimgo@outlook.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Neuton Silva Oliveira Asseburg",
+          "telefone": "(64) 3657-1523",
+          "celular": "(64) 99615-2212",
+          "email": "assnilton@hotmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Goianira",
+        "endereco": "Avenida Perimetral, Quadra 08, Lote 19 - Centro - Goianira/GO",
+        "cep": "75370-000",
+        "contato": { "telefone": "(62) 3516-5281", "email": "", "website": "" },
+        "pastor": { "nome": "", "telefone": "", "celular": "", "email": "" },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Inhumas",
+        "endereco": "R. José Rodrigues Rabelo, 1.184 - Centro - Inhumas/GO",
+        "cep": "75400-000",
+        "contato": {
+          "telefone": "(62) 9.8586-1548",
+          "email": "revalexipb@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Alexander Ferreira Ramos",
+          "telefone": "",
+          "celular": "(62) 9.8586-1548",
+          "email": "revalexipb@gmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Itaberaí",
+        "endereco": "R. Sete, 54 - Vila Leonor - Itaberaí/GO",
+        "cep": "76630-000",
+        "contato": {
+          "telefone": "(62) 3375-3334",
+          "email": "ipbitaberai@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. José Batista Simões",
+          "telefone": "(62) 3375-3334",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Itapuranga",
+        "endereco": "R. 52 A, 103 - Centro - Itapuranga/GO",
+        "cep": "76680-000",
+        "contato": {
+          "telefone": "(62) 3355-1142",
+          "email": "ipitapuranga@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Welington Batista de Souza",
+          "telefone": "",
+          "celular": "(62) 98596-5612",
+          "email": "23welington@gmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Ebenézer",
+        "endereco": "609, Quadra 533 - Lote 11/12 - Setor São José - Goiânia/GO",
+        "cep": "74440-550",
+        "contato": {
+          "telefone": "(62) 3271-4055",
+          "email": "rubensjbruno@hotmail.com",
+          "website": ""
+        },
+        "pastor": { "nome": "", "telefone": "", "celular": "", "email": "" },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Emanuel",
+        "endereco": "Rua Monte Cristo, Quadra 32, Lote 10 - Vila Regina - Goiânia/GO",
+        "cep": "74453-570",
+        "contato": {
+          "telefone": "",
+          "email": "ipegyn@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Elias Victor de Araujo",
+          "telefone": "(62)3092-1981",
+          "celular": "(62)9253-5695",
+          "email": "pr.eliasvictor@hotmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Filadélfia",
+        "endereco": "Av. Goiânia, Qd. 134 - Maysa II - Trindade/GO",
+        "cep": "75380-000",
+        "contato": { "telefone": "(62) 3577-4057", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Antônio Luciano da Silva",
+          "telefone": "(62) 577-4057",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Finsocial",
+        "endereco": "R. VF 42, Quadra 34 Lote 5a - Vila Finsocial - Goiânia/GO",
+        "cep": "74473-380",
+        "contato": { "telefone": "(62) 3519-4312", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. João de Deus dos Santos Silva",
+          "telefone": "(62) 3581-2694",
+          "celular": "(62) 9.9563-6433",
+          "email": "joaodeusss@hotmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Solar Park",
+        "endereco": "Avenida Radial Norte, Qd 15 - Teodoro A. Rezende - Inhumas/GO",
+        "cep": "75400-000",
+        "contato": {
+          "telefone": "",
+          "email": "ipb.solarpark@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Robson Rosa Santana",
+          "telefone": "",
+          "celular": "(62) 9.8547-6460",
+          "email": "rrsantana@hotmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Tiradentes",
+        "endereco": "R. 6 Quadra 63 Lote 17/18 - Jardim Tiradentes - Aparecida De Goiânia/GO",
+        "cep": "74980-000",
+        "contato": { "telefone": "(62) 3537-8859", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Salomão Alves Brandão",
+          "telefone": "(62) 3086-1435",
+          "celular": "(62)9142-9522",
+          "email": "revbrandao@yahoo.com.br"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana União",
+        "endereco": "R. C-75, Quadra 187 - Lote 10/13 - Setor Sudoeste - Goiânia/GO",
+        "cep": "74303-020",
+        "contato": { "telefone": "(62) 3285-3660", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Saulo Pereira De Carvalho",
+          "telefone": "(62) 3289-9437",
+          "celular": "(62) 98556-6969",
+          "email": "saulocarvalho@ipb.org.br"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Igreja Presbiteriana Vera Cruz",
+        "endereco": "Av. Gercina Borges Teixeira, 530, Qd. C - 18, Lts. 10-12 - Vera Cruz - Goiânia/GO",
+        "cep": "74493-060",
+        "contato": {
+          "telefone": "(62) 3597-2871",
+          "email": "ipveracruz@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Robson Rosa Santana",
+          "telefone": "",
+          "celular": "(62) 9.8547-6460",
+          "email": "rrsantana@hotmail.com"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Segunda Igreja Presbiteriana de Goiânia",
+        "endereco": "R. Dr. Inácio Zacarias Pereira, 66 - Centro Oeste - Goiânia/GO",
+        "cep": "74550-070",
+        "contato": {
+          "telefone": "(62) 3251-4916",
+          "email": "sipesgoiania@yahoo.com.br",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Welton Araújo de Castro",
+          "telefone": "(62) 3251-4916",
+          "celular": "(62) 9.8545-4330",
+          "email": "sipesgoiania@yahoo.com.br"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      },
+      {
+        "nome": "Templo Central - Igreja Presbiteriana de Goiânia",
+        "endereco": "Av. Anhanguera, 2.840 - Setor Leste Universitário - Goiânia/GO",
+        "cep": "74610-010",
+        "contato": {
+          "telefone": "(62) 3224-2006",
+          "email": "temcentral@yahoo.com.br",
+          "website": "http://www.ipgo.org.br"
+        },
+        "pastor": {
+          "nome": "Rev. Alexandre Vieira de Melo",
+          "telefone": "(62) 3224-2006",
+          "celular": "(62) 98118-6767",
+          "email": "temcentral@yahoo.com.br"
+        },
+        "presbiterio": "Presbitério Oeste de Goiânia - POSG"
+      }
+    ],
     "presidente": {
       "nome": "Rev. Rogério Bernardes da Mota",
       "cel": "(62) 9.9106-6726",
@@ -51,6 +669,175 @@
   {
     "nome_presbiterio": "Presbitério Sudoeste de Goiânia - PSGN",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "lista_de_igrejas": [
+      {
+        "nome": "Igreja Presbiteriana Bethel",
+        "endereco": "R. Erasmo Braga, 11 - Vila Bethel - Setor Castelo Branco - Goiânia/GO",
+        "cep": "74410-050",
+        "contato": { "telefone": "(62) 3573-1941", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Wilton Oliveira Souza",
+          "telefone": "(62) 3573-1941",
+          "celular": "(62) 9151-5465",
+          "email": "wilton_souza65@hotmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Canaã",
+        "endereco": "R. do Encanto, s/n, Quadra 4 - Lote 40 E - Vila Santa Rita - Goiânia/GO",
+        "cep": "74420-070",
+        "contato": {
+          "telefone": "(62) 3581-0222",
+          "email": "canaapresbiteriana@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. José De Rezende Costa Neto",
+          "telefone": "(62) 3581-0222",
+          "celular": "(62) 98240-1967",
+          "email": "costaneto.ze@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Cidade Satélite",
+        "endereco": "R. Viriato Correia, Quadra 8 - Lote 8/9 - Cidade Satélite São Luiz - Aparecida De Goiânia/GO",
+        "cep": "74920-510",
+        "contato": {
+          "telefone": "(62) 3277-2122",
+          "email": "marciaalves84@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Serafim da Rocha Barbosa",
+          "telefone": "(62) 3277-2122",
+          "celular": "(62) 3277-2122",
+          "email": "marciaalves84@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Alphaville",
+        "endereco": "R. Alpha 14 Quadra 5, Lt. 82 - Setor Alphaville - Goiânia/GO",
+        "cep": "74393-700",
+        "contato": { "telefone": "(62) 3296-9862", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Sérgio Paiva de Oliveira",
+          "telefone": "",
+          "celular": "(62) 99622-1473",
+          "email": "revspo1256@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Campinas",
+        "endereco": "Av. 24 de Outubro, 435 - Setor Campinas - Goiânia/GO",
+        "cep": "74543-100",
+        "contato": {
+          "telefone": "(62) 3233-1262",
+          "email": "secretariaipc@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Marcos Antonio Bastos de Almeida Braga",
+          "telefone": "(62) 3233-1262",
+          "celular": "(62) 8119-1116",
+          "email": "analvari@yahoo.com.br"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana de Novo Horizonte",
+        "endereco": "Av. Domiciano Peixoto, Qd 16, Lt 16 - Jardim Vila Boa - Goiânia/GO",
+        "cep": "74363-770",
+        "contato": { "telefone": "(62) 3247-6758", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Guilherme Bispo de Souza Júnior",
+          "telefone": "(62) 3288-3004",
+          "celular": "(62) 8471-2517",
+          "email": "revguilherme@ipnh.org"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Jardim Alto Paraíso",
+        "endereco": "Av. dos Protestantes, Quadra 93 - Lote 5 - Jardim Alto Paraíso - Aparecida De Goiânia/GO",
+        "cep": "74948-220",
+        "contato": { "telefone": "(62) 3579-5580", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Osmar Dias da Silva",
+          "telefone": "(62) 3575-5691",
+          "celular": "(62) 9.8566-5691",
+          "email": "osmardias59@hotmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Jardim América",
+        "endereco": "Avenida B, Qd.49, Lote 18 - Jardim América - II Etapa - Goiânia/GO",
+        "cep": "75070-440",
+        "contato": {
+          "telefone": "(62) 3318-7641",
+          "email": "ipjda@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Heráclito Melo e Silva Filho",
+          "telefone": "",
+          "celular": "(62) 9.9217-2751",
+          "email": "56heraclito@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Peniel",
+        "endereco": "R. 3B, Qd 50, Lotes 5-7 - Setor Garavelo B - Goiânia/GO",
+        "cep": "74354-250",
+        "contato": {
+          "telefone": "(62) 9 9420-6262",
+          "email": "conselhoipbpeniel@gmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Josué Sousa e Silva",
+          "telefone": "",
+          "celular": "(62) 99420-6262",
+          "email": "josue2s@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Semear",
+        "endereco": "R. Maria Abadia de Carvalho Souza, Qd. 27, Lt. 59 - Rio Formoso - Goiânia/GO",
+        "cep": "74370-190",
+        "contato": {
+          "telefone": "",
+          "email": "semear@ipsemear.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Márcio Raimundo Leão Ramos",
+          "telefone": "(62) 3206-2342",
+          "celular": "(62) 9.8480-3459",
+          "email": "revmarcioleao@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Shalom",
+        "endereco": "Rua Curitiba, Qd. 108, Lt. 17 - Parque Amazonas - Goiânia/GO",
+        "cep": "74843-040",
+        "contato": { "telefone": "(62) 3996-0998", "email": "", "website": "" },
+        "pastor": {
+          "nome": "Rev. Luiz Washington Gomes da Silva",
+          "telefone": "(62) 3018-3204",
+          "celular": "(62) 9.8411-8080",
+          "email": "luizw2002@gmail.com"
+        },
+        "presbiterio": "Presbitério Sudoeste de Goiânia - PSGN"
+      }
+    ],
     "presidente": {
       "nome": "Rev. Luiz Jânio dos Santos Silva",
       "cel": "(62) 8182-5296",
@@ -66,6 +853,129 @@
   {
     "nome_presbiterio": "Presbitério Sul de Goiânia - PSGA",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "lista_de_igrejas": [
+      {
+        "nome": "1ª Igreja Presbiteriana de Senador Canedo",
+        "endereco": "R. Benjamin Santos, Qd 2 C, Lote 29 - Jardim Todos os Santos - Senador Canedo/GO",
+        "cep": "75250-000",
+        "contato": {
+          "telefone": "(62) 3512-1736",
+          "email": "1a.igpresbsc@gmail.com",
+          "website": "www.facebook.com/IPSenadorCanedo"
+        },
+        "pastor": {
+          "nome": "Rev. Deneval Naves Carneiro",
+          "telefone": "(62) 3532-4375",
+          "celular": "(62) 9.8408-3633",
+          "email": "denevalnc@gmail.com"
+        },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana Bereia",
+        "endereco": "Av. C-18, Nº 1.154, Qd. 209, Lt. 13/14 - S. Sudoeste - Goiânia/GO",
+        "cep": "74303-030",
+        "contato": {
+          "telefone": "(62) 3247-1921",
+          "email": "ipb.bereia@bereia.com.br",
+          "website": ""
+        },
+        "pastor": { "nome": "", "telefone": "", "celular": "", "email": "" },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Setor Bueno",
+        "endereco": "Rua T-29, Qd. 54, Lt. 01 - Setor Bueno - Goiânia/GO",
+        "cep": "74210-050",
+        "contato": {
+          "telefone": "(62) 4101-2785",
+          "email": "",
+          "website": "ipsbueno@yahoo.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Giovanni Gonçalves Dos Reis Zardini",
+          "telefone": "",
+          "celular": "(62) 98472-7777",
+          "email": "giovannizardini@live.com"
+        },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Setor Pedro Ludovico",
+        "endereco": "Rua 1040, SN, Qd.76, Lts.11/12 - Setor Pedro Ludovico - Goiânia/GO",
+        "cep": "74823-250",
+        "contato": {
+          "telefone": "(62) 3241-2491",
+          "email": "ipspl@ipspl.com.br",
+          "website": "www.ipspl.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Afonso Barbosa",
+          "telefone": "(62) 4016-1900",
+          "celular": "(62) 8423-3686",
+          "email": "revafonsobarbosa@hotmail.com"
+        },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Setor Universitário",
+        "endereco": "Rua 243, nº 309 Qd 100 Lt 20 - Setor Leste Universitário - Goiânia/GO",
+        "cep": "74603-200",
+        "contato": {
+          "telefone": "(62) 3218-1316",
+          "email": "ipbipsu@hotmail.com",
+          "website": "ipsu.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Wellington Dias Silva",
+          "telefone": "(62) 3284-2051",
+          "celular": "(62) 9.9133-7313",
+          "email": "prwellds@gmail.com"
+        },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana Jaó",
+        "endereco": "R. J-81, Qd. 142, Lt. 18 - Setor Jaó - Goiânia/GO",
+        "cep": "74674-430",
+        "contato": {
+          "telefone": "(62) 3945-7071",
+          "email": "",
+          "website": "www.ipbjao.org.br"
+        },
+        "pastor": { "nome": "", "telefone": "", "celular": "", "email": "" },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana Jardim Goiás",
+        "endereco": "Rua 10, Nº 176, Qd. G, Lt. 5 - Vila S. João - Goiânia/GO",
+        "cep": "74815-435",
+        "contato": {
+          "telefone": "(62) 3995-1095",
+          "email": "",
+          "website": "ipjardimgoias@gmail.com"
+        },
+        "pastor": { "nome": "", "telefone": "", "celular": "", "email": "" },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      },
+      {
+        "nome": "Igreja Presbiteriana Mosaico",
+        "endereco": "Rua T 53 nº 480 - qd. 86, lt. 13 - S. Bueno - Goiânia/GO",
+        "cep": "74215-150",
+        "contato": {
+          "telefone": "(62) 3920-2091",
+          "email": "",
+          "website": "ipmosaico@gmail.com"
+        },
+        "pastor": {
+          "nome": "Rev. Felipe Lobo Andrade",
+          "telefone": "",
+          "celular": "(62) 9.9161-6086",
+          "email": "lobofelipe90@gmail.com"
+        },
+        "presbiterio": "Presbitério Sul de Goiânia - PSGA"
+      }
+    ],
     "presidente": {
       "nome": "Rev. Ronaldo Crispim Ribeiro",
       "cel": "(62) 99155-7915",
