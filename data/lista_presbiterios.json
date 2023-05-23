@@ -1,0 +1,75 @@
+[
+  {
+    "nome_presbiterio": "Presbitério Goiânia - PGNA",
+    "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "presidente": {
+      "nome": "Rev. Helber Carlos Goulart",
+      "cel": "(62) 98237-0926",
+      "email": "phcgoulart@gmail.com"
+    },
+    "secretario_executivo": {
+      "nome": "Rev. Marcelo Augusto Pereira",
+      "tel": "(62) 3210-8400",
+      "cel": "(62) 9.9367-0599",
+      "email": "marceloaugusto841@yahoo.com.br"
+    }
+  },
+  {
+    "nome_presbiterio": "Presbitério Leste de Goiânia - PLGN",
+    "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "presidente": {
+      "nome": "Rev. Otaviano Seixas Dourado",
+      "cel": "(62) 9 8156-1074",
+      "email": "otavianosd@hotmail.com"
+    }
+  },
+  {
+    "nome_presbiterio": "Presbitério Metropolitano de Goiânia - PMGN",
+    "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "secretario_executivo": {
+      "nome": "Rev. André Luis Matos Haussmann",
+      "tel": "(62) 3208-7964",
+      "cel": "(62) 9.8274-2169",
+      "email": "andrehaussmann@yahoo.com.br"
+    }
+  },
+  {
+    "nome_presbiterio": "Presbitério Oeste de Goiânia - POSG",
+    "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "presidente": {
+      "nome": "Rev. Rogério Bernardes da Mota",
+      "cel": "(62) 9.9106-6726",
+      "email": "rogeriobernardes.ipb@gmail.com"
+    },
+    "secretario_executivo": {
+      "nome": "Rev. Rubens Alves Costa",
+      "tel": "(62) 3233-5608",
+      "cel": "(62) 9.9933-2995",
+      "email": "rev.rubensalvescosta@gmail.com"
+    }
+  },
+  {
+    "nome_presbiterio": "Presbitério Sudoeste de Goiânia - PSGN",
+    "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "presidente": {
+      "nome": "Rev. Luiz Jânio dos Santos Silva",
+      "cel": "(62) 8182-5296",
+      "email": "prluizjanio@gmail.com"
+    },
+    "secretario_executivo": {
+      "nome": "Rev. Aurino Cézar Lima Filho",
+      "tel": "(62) 3286-1229",
+      "cel": "(62) 98456-4774",
+      "email": "aurinofilho@hotmail.com"
+    }
+  },
+  {
+    "nome_presbiterio": "Presbitério Sul de Goiânia - PSGA",
+    "nome_do_sinodo": "Sínodo Brasil Central - SBC",
+    "presidente": {
+      "nome": "Rev. Ronaldo Crispim Ribeiro",
+      "cel": "(62) 99155-7915",
+      "email": "rev.crispim@bereia.com.br"
+    }
+  }
+]
