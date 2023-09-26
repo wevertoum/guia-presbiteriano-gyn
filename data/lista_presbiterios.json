@@ -505,7 +505,7 @@
         "presbiterio": "Presbitério Oeste de Goiânia - POSG"
       },
       {
-        "nome": "Igreja Presbiteriana Ebenézer",
+        "nome": "Igreja Presbiteriana Ebenézer (Goiânia)",
         "endereco": "609, Quadra 533 - Lote 11/12 - Setor São José - Goiânia/GO",
         "cep": "74440-550",
         "contato": {
@@ -1004,22 +1004,6 @@
         "presbiterio": "Presbitério Anápolis - PANA"
       },
       {
-        "nome": "Capela Presbiteriana de Anápolis",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "R. Barão de Cotegipe, 600 - (Caixa Postal 374 - CEP:75.001-970) - Centro - Anápolis/GO",
-        "cep": "75.025-010",
-        "contato": {
-          "telefone": "(62) 3324-7047",
-          "email": "capela@capelaipb.org.br",
-          "website": "www.capelaipb.org.br"
-        },
-        "pastor": {
-          "nome": "Rev. Natanael Miguel Sallum",
-          "telefone": "(62) 3321-7130",
-          "email": "natanaelms@gmail.com"
-        }
-      },
-      {
         "nome": "Igreja Presbiteriana Anápolis City",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "- - Anápolis/GO",
@@ -1064,23 +1048,6 @@
           "website": ""
         },
         "pastor": {}
-      },
-      {
-        "nome": "Igreja Presbiteriana Bom Pastor",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "R. Bom Pastor, Quadra 7 Lote 12 - Frei Eustáquio - Anápolis/GO",
-        "cep": "75.044-060",
-        "contato": {
-          "telefone": "(62) 3701-0643",
-          "email": "ipbompastor2014@gmail.com",
-          "website": "www.ipbompastor.com"
-        },
-        "pastor": {
-          "nome": "Rev. Gildásio Ribeiro Dourado Vasconcelos",
-          "telefone": "(62) 3706-1695",
-          "celular": "(62) 9332-7272",
-          "email": "revgildasio@hotmail.com"
-        }
       },
       {
         "nome": "Igreja Presbiteriana da Vila Formosa",
@@ -1150,56 +1117,6 @@
         }
       },
       {
-        "nome": "Igreja Presbiteriana Ebenézer",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "R. Dona Ada Centini, 812, Qd. 34, Lote 14 - Maracanã - Anápolis/GO",
-        "cep": "75.040-050",
-        "contato": {
-          "telefone": "(62) 3315-5838",
-          "email": "ipebenezer@ipebenezer.com.br",
-          "website": "www.ipebenezer.com.br"
-        },
-        "pastor": {
-          "nome": "Rev. Francisco Nonato Martins",
-          "telefone": "(62) 3099-5259",
-          "celular": "(62) 9.8411-6853",
-          "email": "fnonatompr@hotmail.com"
-        }
-      },
-      {
-        "nome": "Igreja Presbiteriana Jardim das Américas",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "Av. B, Qd. 49, Lote 18 - Jardim das Américas – 2ª Etapa - Anápolis/GO",
-        "cep": "75070-440",
-        "contato": {
-          "telefone": "(62) 3318-7641",
-          "email": "ipjda@hotmail.com",
-          "website": ""
-        },
-        "pastor": {
-          "nome": "Rev. Maximiliano da Silva Gama",
-          "celular": "(62) 9.9954-0992",
-          "email": "eumaxgama@gmail.com"
-        }
-      },
-      {
-        "nome": "Igreja Presbiteriana Orvalho do Hermom",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "R. Itália, Quadra 61- Lote 5 a 10 - Santa Isabel - Anápolis/GO",
-        "cep": "75.083-310",
-        "contato": {
-          "telefone": "(62) 3318-4503",
-          "email": "caetano-borges@hotmail.com",
-          "website": ""
-        },
-        "pastor": {
-          "nome": "Rev. Marlúcio Caetano Borges",
-          "telefone": "(62) 3315-2570",
-          "celular": "(62) 9 9628-3086",
-          "email": "caetano-borges@hotmail.com"
-        }
-      },
-      {
         "nome": "Igreja Presbiteriana Pioneira",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "Av. Getulino Artiaga, 440 - Centro - Anápolis/GO",
@@ -1215,23 +1132,6 @@
           "celular": "(62) 98431-8850",
           "email": "pastorweder@hotmail.com"
         }
-      },
-      {
-        "nome": "Igreja Presbiteriana Shekinah",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "Av. Perimetral, 315 Qd. 18 Lote 28 - Vila Norte - Anápolis/GO",
-        "cep": "75001-970",
-        "contato": {
-          "telefone": "",
-          "email": "braganca.gs@hotmail.com",
-          "website": ""
-        },
-        "pastor": {
-          "nome": "Rev. Gilvane de Souza Bragança",
-          "telefone": "(62) 3099-1045",
-          "celular": "(62) 9.9905-5943",
-          "email": "braganca.gs@hotmail.com"
-        }
       }
     ],
     "presidente": {
@@ -1246,24 +1146,194 @@
       "email": "wagnerguedin@hotmail.com"
     }
   },
+
   {
-    "nome_presbiterio": "Presbitério Sul de Anápolis - PSAN",
+    "nome_presbiterio": "Presbitério Norte de Anápolis - PNAN",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
-    "lista_de_igrejas": [],
+    "lista_de_igrejas": [
+      {
+        "nome": "Igreja Presbiteriana Jardim das Américas",
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN",
+        "endereco": "Av. B, Qd. 49, Lote 18 - Jardim das Américas – 2ª Etapa - Anápolis/GO",
+        "cep": "75070-440",
+        "contato": {
+          "telefone": "(62) 3318-7641",
+          "email": "ipjda@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Maximiliano da Silva Gama",
+          "celular": "(62) 9.9954-0992",
+          "email": "eumaxgama@gmail.com"
+        }
+      },
+      {
+        "nome": "Igreja Presbiteriana Orvalho do Hermom",
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN",
+        "endereco": "R. Itália, Quadra 61- Lote 5 a 10 - Santa Isabel - Anápolis/GO",
+        "cep": "75.083-310",
+        "contato": {
+          "telefone": "(62) 3318-4503",
+          "email": "caetano-borges@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Marlúcio Caetano Borges",
+          "telefone": "(62) 3315-2570",
+          "celular": "(62) 9 9628-3086",
+          "email": "caetano-borges@hotmail.com"
+        }
+      },
+      {
+        "nome": "Capela Presbiteriana de Anápolis",
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN",
+        "endereco": "R. Barão de Cotegipe, 600 - (Caixa Postal 374 - CEP:75.001-970) - Centro - Anápolis/GO",
+        "cep": "75.025-010",
+        "contato": {
+          "telefone": "(62) 3324-7047",
+          "email": "capela@capelaipb.org.br",
+          "website": "www.capelaipb.org.br"
+        },
+        "pastor": {
+          "nome": "Rev. Natanael Miguel Sallum",
+          "telefone": "(62) 3321-7130",
+          "email": "natanaelms@gmail.com"
+        }
+      },
+      {
+        "nome": "Igreja Presbiteriana Bom Pastor",
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN",
+        "endereco": "R. Bom Pastor, Quadra 7 Lote 12 - Frei Eustáquio - Anápolis/GO",
+        "cep": "75.044-060",
+        "contato": {
+          "telefone": "(62) 3701-0643",
+          "email": "ipbompastor2014@gmail.com",
+          "website": "www.ipbompastor.com"
+        },
+        "pastor": {
+          "nome": "Rev. Gildásio Ribeiro Dourado Vasconcelos",
+          "telefone": "(62) 3706-1695",
+          "celular": "(62) 9332-7272",
+          "email": "revgildasio@hotmail.com"
+        }
+      },
+      {
+        "nome": "Igreja Presbiteriana Ebenézer (Anápolis)",
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN",
+        "endereco": "R. Dona Ada Centini, 812, Qd. 34, Lote 14 - Maracanã - Anápolis/GO",
+        "cep": "75.040-050",
+        "contato": {
+          "telefone": "(62) 3315-5838",
+          "email": "ipebenezer@ipebenezer.com.br",
+          "website": "www.ipebenezer.com.br"
+        },
+        "pastor": {
+          "nome": "Rev. Francisco Nonato Martins",
+          "telefone": "(62) 3099-5259",
+          "celular": "(62) 9.8411-6853",
+          "email": "fnonatompr@hotmail.com"
+        }
+      },
+      {
+        "nome": "Igreja Presbiteriana Jardim das Americas",
+        "endereco": "Av. Planejada, 330 - Jardim das Americas 2A Etapa, Anápolis - GO",
+        "cep": "75070-010",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Shekinah",
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN",
+        "endereco": "Av. Perimetral, 315 Qd. 18 Lote 28 - Vila Norte - Anápolis/GO",
+        "cep": "75001-970",
+        "contato": {
+          "telefone": "",
+          "email": "braganca.gs@hotmail.com",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "Rev. Gilvane de Souza Bragança",
+          "telefone": "(62) 3099-1045",
+          "celular": "(62) 9.9905-5943",
+          "email": "braganca.gs@hotmail.com"
+        }
+      },
+      {
+        "nome": "Congregação Bairro Lourdes",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN"
+      },
+      {
+        "nome": "Congregação Monte Sinai",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN"
+      },
+      {
+        "nome": "Congregação Jardim Itália",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Norte de Anápolis - PNAN"
+      }
+    ],
     "presidente": {
-      "nome": "",
-      "cel": "",
-      "email": ""
+      "nome": "Rev. Marlucio Caetano Borges",
+      "cel": "(62) 99323-0282",
+      "email": "caetano-borges@hotmail.com"
     },
     "secretario_executivo": {
-      "nome": "",
+      "nome": "Presb. Wagner Santos Guedin",
       "tel": "",
-      "cel": "",
-      "email": ""
+      "cel": "(62) 99606-6455",
+      "email": "secretariaexecutiva.pnan@gmail.com"
     }
   },
   {
-    "nome_presbiterio": "Presbitério Norte de Anápolis - PNAN",
+    "nome_presbiterio": "Presbitério Sul de Anápolis - PSAN",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
     "lista_de_igrejas": [],
     "presidente": {
