@@ -989,7 +989,7 @@
       {
         "nome": "4ª Igreja Presbiteriana de Anápolis",
         "endereco": "R. Pereira de Alencastro, 50 - Jundiaí - Anápolis/GO",
-        "cep": "75.110-560",
+        "cep": "75110-560",
         "contato": {
           "telefone": "(62) 3311-6789",
           "email": "ivipbanapolis@uol.com.br",
@@ -1004,27 +1004,10 @@
         "presbiterio": "Presbitério Anápolis - PANA"
       },
       {
-        "nome": "Igreja Presbiteriana Anápolis City",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "- - Anápolis/GO",
-        "cep": "",
-        "contato": {
-          "telefone": "",
-          "email": "",
-          "website": ""
-        },
-        "pastor": {
-          "nome": "Rev. Hugo Leonardo Borges Machado",
-          "telefone": "(62) 98115-4456",
-          "celular": "(62) 98245-9403",
-          "email": "leonardoborges1976@gmail.com"
-        }
-      },
-      {
         "nome": "Igreja Presbiteriana Antioquia",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "R. Siomara A. Oliveira, Qd 23, Lote 10 e 11 - Vivian Parque - Anápolis/GO",
-        "cep": "75.135-480",
+        "cep": "75135-480",
         "contato": {
           "telefone": "(62) 3314-6853",
           "email": "rcsaulo@homail.com",
@@ -1038,22 +1021,10 @@
         }
       },
       {
-        "nome": "Igreja Presbiteriana Boas Novas",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "Av. 3 de Julho Qd. 20 Lote. 17 - Centro - Cocalzinho De Goiás/GO",
-        "cep": "72975-000",
-        "contato": {
-          "telefone": "",
-          "email": "igrejapresb.boasnovas@gmail.com",
-          "website": ""
-        },
-        "pastor": {}
-      },
-      {
         "nome": "Igreja Presbiteriana da Vila Formosa",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "Av. Sebastião Pedro Junqueira, 2.424 - Vila Formosa - Anápolis/GO",
-        "cep": "75.100-130",
+        "cep": "75100-130",
         "contato": {
           "telefone": "(62) 3314-6653",
           "email": "ipbvf@ipvf.org.br",
@@ -1069,7 +1040,7 @@
         "nome": "Igreja Presbiteriana de Anápolis",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "R. Desembargador Jaime, 194 - Centro - Anápolis/GO",
-        "cep": "75.020-040",
+        "cep": "75020-040",
         "contato": {
           "telefone": "(62) 3324-4046",
           "email": "ipasecretaria@gmail.com",
@@ -1086,7 +1057,7 @@
         "nome": "Igreja Presbiteriana do Jundiaí",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "Av. Pinheiro Chagas, Qd 53, Lt 30 - Jundiaí - Anápolis/GO",
-        "cep": "75.000-000",
+        "cep": "75000-000",
         "contato": {
           "telefone": "(62) 3099-4725",
           "email": "neusmaned@hotmail.com",
@@ -1103,7 +1074,7 @@
         "nome": "Igreja Presbiteriana do Setor Sul",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "R. 8, n.26, Quadra 05, Lotes 25 e 26 - Jardim Ana Paula - Anápolis/GO",
-        "cep": "75.123-650",
+        "cep": "75123-650",
         "contato": {
           "telefone": "(62) 3313-1052",
           "email": "secretariaipss@yahoo.com.br",
@@ -1120,7 +1091,7 @@
         "nome": "Igreja Presbiteriana Pioneira",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "Av. Getulino Artiaga, 440 - Centro - Anápolis/GO",
-        "cep": "75.025-070",
+        "cep": "75025-070",
         "contato": {
           "telefone": "(62) 3321-3431",
           "email": "ipioneira@ig.com.br",
@@ -1132,18 +1103,35 @@
           "celular": "(62) 98431-8850",
           "email": "pastorweder@hotmail.com"
         }
+      },
+      {
+        "nome": "Igreja Presbiteriana Mosaico (Anápolis)",
+        "presbiterio": "Presbitério Anápolis - PANA",
+        "endereco": "Av. Perimetral Q Cm, 9 - Res. ANAVILLE, Anápolis - GO",
+        "cep": "75102-085",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        }
       }
     ],
     "presidente": {
-      "nome": "Rev. Pedro Henrique da Silva",
-      "cel": "(62) 98120-7723",
-      "email": "peddrohenrique@gmail.com"
+      "nome": "Rev. Lucas Quintino",
+      "cel": "",
+      "email": ""
     },
     "secretario_executivo": {
-      "nome": "Presb. Wagner Santos Guedin",
-      "tel": "(62) 3317-73909",
-      "cel": "(62) 99354-8282",
-      "email": "wagnerguedin@hotmail.com"
+      "nome": "",
+      "tel": "",
+      "cel": "",
+      "email": ""
     }
   },
 
@@ -1171,7 +1159,7 @@
         "nome": "Igreja Presbiteriana Orvalho do Hermom",
         "presbiterio": "Presbitério Norte de Anápolis - PNAN",
         "endereco": "R. Itália, Quadra 61- Lote 5 a 10 - Santa Isabel - Anápolis/GO",
-        "cep": "75.083-310",
+        "cep": "75083-310",
         "contato": {
           "telefone": "(62) 3318-4503",
           "email": "caetano-borges@hotmail.com",
@@ -1188,7 +1176,7 @@
         "nome": "Capela Presbiteriana de Anápolis",
         "presbiterio": "Presbitério Norte de Anápolis - PNAN",
         "endereco": "R. Barão de Cotegipe, 600 - (Caixa Postal 374 - CEP:75.001-970) - Centro - Anápolis/GO",
-        "cep": "75.025-010",
+        "cep": "75025-010",
         "contato": {
           "telefone": "(62) 3324-7047",
           "email": "capela@capelaipb.org.br",
@@ -1204,7 +1192,7 @@
         "nome": "Igreja Presbiteriana Bom Pastor",
         "presbiterio": "Presbitério Norte de Anápolis - PNAN",
         "endereco": "R. Bom Pastor, Quadra 7 Lote 12 - Frei Eustáquio - Anápolis/GO",
-        "cep": "75.044-060",
+        "cep": "75044-060",
         "contato": {
           "telefone": "(62) 3701-0643",
           "email": "ipbompastor2014@gmail.com",
@@ -1221,7 +1209,7 @@
         "nome": "Igreja Presbiteriana Ebenézer (Anápolis)",
         "presbiterio": "Presbitério Norte de Anápolis - PNAN",
         "endereco": "R. Dona Ada Centini, 812, Qd. 34, Lote 14 - Maracanã - Anápolis/GO",
-        "cep": "75.040-050",
+        "cep": "75040-050",
         "contato": {
           "telefone": "(62) 3315-5838",
           "email": "ipebenezer@ipebenezer.com.br",
