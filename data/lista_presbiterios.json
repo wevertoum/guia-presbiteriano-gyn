@@ -1323,17 +1323,103 @@
   {
     "nome_presbiterio": "Presbitério Sul de Anápolis - PSAN",
     "nome_do_sinodo": "Sínodo Brasil Central - SBC",
-    "lista_de_igrejas": [],
+    "lista_de_igrejas": [
+      {
+        "nome": "Igreja Presbiteriana de Vila Formosa",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+      },
+      {
+        "nome": "Igreja Presbiteriana do Setor Sul",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Pioneira",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+      },
+      {
+        "nome": "Congregação de Abadiânia (Pioneira)",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+      },
+      {
+        "nome": "Igreja Presbiteriana Antioquia",
+        "endereco": "",
+        "cep": "",
+        "contato": {
+          "telefone": "",
+          "email": "",
+          "website": ""
+        },
+        "pastor": {
+          "nome": "",
+          "telefone": "",
+          "celular": "",
+          "email": ""
+        },
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+      }
+    ],
     "presidente": {
-      "nome": "",
-      "cel": "",
-      "email": ""
+      "nome": "Rev. Pedro Henrique da Silva",
+      "cel": "(62) 98120-7723",
+      "email": "peddrohenrique@gmail.com"
     },
     "secretario_executivo": {
-      "nome": "",
+      "nome": "Rev. Fabricio Carlos Maciel Ribeiro",
       "tel": "",
-      "cel": "",
-      "email": ""
+      "cel": "(62) 99558-2590",
+      "email": "fa.carlos@yahoo.com.br"
     }
   }
 ]
