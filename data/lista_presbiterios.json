@@ -1004,39 +1004,6 @@
         "presbiterio": "Presbitério Anápolis - PANA"
       },
       {
-        "nome": "Igreja Presbiteriana Antioquia",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "R. Siomara A. Oliveira, Qd 23, Lote 10 e 11 - Vivian Parque - Anápolis/GO",
-        "cep": "75135-480",
-        "contato": {
-          "telefone": "(62) 3314-6853",
-          "email": "rcsaulo@homail.com",
-          "website": "www.ipantioquia.org.br"
-        },
-        "pastor": {
-          "nome": "Rev. Saulo Rodrigues de Carvalho",
-          "telefone": "(62) 3314-6853",
-          "celular": "(62) 9 9366-1729",
-          "email": "rcsaulo@hotmail.com"
-        }
-      },
-      {
-        "nome": "Igreja Presbiteriana da Vila Formosa",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "Av. Sebastião Pedro Junqueira, 2.424 - Vila Formosa - Anápolis/GO",
-        "cep": "75100-130",
-        "contato": {
-          "telefone": "(62) 3314-6653",
-          "email": "ipbvf@ipvf.org.br",
-          "website": "www.ipvf.org.br"
-        },
-        "pastor": {
-          "nome": "Rev. Heber Schaiblich",
-          "celular": "(62) 98415-5595",
-          "email": "prheber2002@gmail.com"
-        }
-      },
-      {
         "nome": "Igreja Presbiteriana de Anápolis",
         "presbiterio": "Presbitério Anápolis - PANA",
         "endereco": "R. Desembargador Jaime, 194 - Centro - Anápolis/GO",
@@ -1068,40 +1035,6 @@
           "telefone": "(62) 3706-1241",
           "celular": "(62) 9 9286-7734",
           "email": "neusmaned@hotmail.com"
-        }
-      },
-      {
-        "nome": "Igreja Presbiteriana do Setor Sul",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "R. 8, n.26, Quadra 05, Lotes 25 e 26 - Jardim Ana Paula - Anápolis/GO",
-        "cep": "75123-650",
-        "contato": {
-          "telefone": "(62) 3313-1052",
-          "email": "secretariaipss@yahoo.com.br",
-          "website": "www.ipssanapolis.blogspot.com"
-        },
-        "pastor": {
-          "nome": "Rev. Renato Duarte Silva",
-          "telefone": "(62) 9 8271-3886",
-          "celular": "(62) 9 8271-3887",
-          "email": "ipbrenato@gmail.com"
-        }
-      },
-      {
-        "nome": "Igreja Presbiteriana Pioneira",
-        "presbiterio": "Presbitério Anápolis - PANA",
-        "endereco": "Av. Getulino Artiaga, 440 - Centro - Anápolis/GO",
-        "cep": "75025-070",
-        "contato": {
-          "telefone": "(62) 3321-3431",
-          "email": "ipioneira@ig.com.br",
-          "website": "www.igrejapioneira.com.br"
-        },
-        "pastor": {
-          "nome": "Rev. Weder Barbosa De Oliveira",
-          "telefone": "(62) 3321-3431",
-          "celular": "(62) 98431-8850",
-          "email": "pastorweder@hotmail.com"
         }
       },
       {
@@ -1326,54 +1259,53 @@
     "lista_de_igrejas": [
       {
         "nome": "Igreja Presbiteriana de Vila Formosa",
-        "endereco": "",
-        "cep": "",
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN",
+        "endereco": "Av. Sebastião Pedro Junqueira, 2.424 - Vila Formosa - Anápolis/GO",
+        "cep": "75100-130",
         "contato": {
-          "telefone": "",
-          "email": "",
-          "website": ""
+          "telefone": "(62) 3314-6653",
+          "email": "ipbvf@ipvf.org.br",
+          "website": "www.ipvf.org.br"
         },
         "pastor": {
-          "nome": "",
-          "telefone": "",
-          "celular": "",
-          "email": ""
-        },
-        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+          "nome": "Rev. Heber Schaiblich",
+          "celular": "(62) 98415-5595",
+          "email": "prheber2002@gmail.com"
+        }
       },
       {
         "nome": "Igreja Presbiteriana do Setor Sul",
-        "endereco": "",
-        "cep": "",
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN",
+        "endereco": "R. 8, n.26, Quadra 05, Lotes 25 e 26 - Jardim Ana Paula - Anápolis/GO",
+        "cep": "75123-650",
         "contato": {
-          "telefone": "",
-          "email": "",
-          "website": ""
+          "telefone": "(62) 3313-1052",
+          "email": "secretariaipss@yahoo.com.br",
+          "website": "www.ipssanapolis.blogspot.com"
         },
         "pastor": {
-          "nome": "",
-          "telefone": "",
-          "celular": "",
-          "email": ""
-        },
-        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+          "nome": "Rev. Renato Duarte Silva",
+          "telefone": "(62) 9 8271-3886",
+          "celular": "(62) 9 8271-3887",
+          "email": "ipbrenato@gmail.com"
+        }
       },
       {
         "nome": "Igreja Presbiteriana Pioneira",
-        "endereco": "",
-        "cep": "",
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN",
+        "endereco": "Av. Getulino Artiaga, 440 - Centro - Anápolis/GO",
+        "cep": "75025-070",
         "contato": {
-          "telefone": "",
-          "email": "",
-          "website": ""
+          "telefone": "(62) 3321-3431",
+          "email": "ipioneira@ig.com.br",
+          "website": "www.igrejapioneira.com.br"
         },
         "pastor": {
-          "nome": "",
-          "telefone": "",
-          "celular": "",
-          "email": ""
-        },
-        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+          "nome": "Rev. Weder Barbosa De Oliveira",
+          "telefone": "(62) 3321-3431",
+          "celular": "(62) 98431-8850",
+          "email": "pastorweder@hotmail.com"
+        }
       },
       {
         "nome": "Congregação de Abadiânia (Pioneira)",
@@ -1394,20 +1326,20 @@
       },
       {
         "nome": "Igreja Presbiteriana Antioquia",
-        "endereco": "",
-        "cep": "",
+        "presbiterio": "Presbitério Sul de Anápolis - PSAN",
+        "endereco": "R. Siomara A. Oliveira, Qd 23, Lote 10 e 11 - Vivian Parque - Anápolis/GO",
+        "cep": "75135-480",
         "contato": {
-          "telefone": "",
-          "email": "",
-          "website": ""
+          "telefone": "(62) 3314-6853",
+          "email": "rcsaulo@homail.com",
+          "website": "www.ipantioquia.org.br"
         },
         "pastor": {
-          "nome": "",
-          "telefone": "",
-          "celular": "",
-          "email": ""
-        },
-        "presbiterio": "Presbitério Sul de Anápolis - PSAN"
+          "nome": "Rev. Saulo Rodrigues de Carvalho",
+          "telefone": "(62) 3314-6853",
+          "celular": "(62) 9 9366-1729",
+          "email": "rcsaulo@hotmail.com"
+        }
       }
     ],
     "presidente": {
